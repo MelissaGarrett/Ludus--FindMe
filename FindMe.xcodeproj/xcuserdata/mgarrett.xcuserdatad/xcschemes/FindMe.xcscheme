@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "01B3E6FE1E464CB600CF273C"
+               BlueprintIdentifier = "01B3E6E01E4632C400CF273C"
                BuildableName = "FindMe.app"
                BlueprintName = "FindMe"
                ReferencedContainer = "container:FindMe.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "01B3E6FE1E464CB600CF273C"
+            BlueprintIdentifier = "01B3E6E01E4632C400CF273C"
             BuildableName = "FindMe.app"
             BlueprintName = "FindMe"
             ReferencedContainer = "container:FindMe.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "01B3E6FE1E464CB600CF273C"
+            BlueprintIdentifier = "01B3E6E01E4632C400CF273C"
             BuildableName = "FindMe.app"
             BlueprintName = "FindMe"
             ReferencedContainer = "container:FindMe.xcodeproj">
@@ -74,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "01B3E6FE1E464CB600CF273C"
+            BlueprintIdentifier = "01B3E6E01E4632C400CF273C"
             BuildableName = "FindMe.app"
             BlueprintName = "FindMe"
             ReferencedContainer = "container:FindMe.xcodeproj">
